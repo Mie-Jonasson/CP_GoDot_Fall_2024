@@ -11,7 +11,11 @@ A suggested way of working for the volunteers is to make a branch for a given we
 Here we will add a brief description (like a changelog) detailing the material of a given week and what updates have been made in the repository in a descriptive fashion.
 
 ### Week 1 - 4th September
-- ?
+- Download GoDot 4.3
+- Download Assets
+- Create First Game ('Mit Seje Spil')
+- Import Assets into the game
+- Add 'Game' scene with Background
 
 ### Week 2 - 11th September
 - ?
